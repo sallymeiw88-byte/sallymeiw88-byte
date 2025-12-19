@@ -25,8 +25,9 @@ To grow as a Data Analyst or Data Quality Analyst, contributing to teams that va
 ---
 
 ### 📂 Featured Projects
-- Walmart Sales Analysis
-- Marketing Campaign Performance
-- Air Pollution Analysis
+- [Walmart Sales Analysis](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)
+- [Marketing Campaign Performance (SQL)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/sql-marketing-campaign-performance)
+- [Air Pollution Analysis (Python)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis)
+
 
 📍 Colombia | English & Spanish
