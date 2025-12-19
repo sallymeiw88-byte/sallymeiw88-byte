@@ -32,6 +32,13 @@ To grow as a Data Analyst or Data Quality Analyst, contributing to teams that va
 - 🌫️ [Air Pollution Analysis (Python)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis)
 
 ---
+---
+
+## 🤝 Let’s Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/sallymei08/
+📧 Email: sallymw93@hotmail.com
+
 
 📍 Colombia  
 🌎 English & Spanish  
