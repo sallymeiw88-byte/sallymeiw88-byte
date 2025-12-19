@@ -58,7 +58,7 @@ To grow as a Data Analyst or Data Quality Analyst, contributing to teams that va
 
 ### ⚙️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallymeiw88-byte&layout=compact&theme=buefy&exclude_repo=data-analyst-portfolio&locale=en)](https://github.com/sallymeiw88-byte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallymeiw88-byte&layout=compact&theme=buefy&locale=en)](https://github.com/sallymeiw88-byte)
 
 
 📍 Colombia  
