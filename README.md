@@ -44,6 +44,21 @@ To grow as a Data Analyst or Data Quality Analyst, contributing to teams that va
 
 🔗 LinkedIn: https://www.linkedin.com/in/sallymei08/
 📧 Email: sallymw93@hotmail.com
+---
+<br>
+
+---
+<br>
+
+## 📊 My GitHub Activity
+
+[![sallymeiw88-byte GitHub Stats](https://github-readme-stats.vercel.app/api?username=sallymeiw88-byte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&locale=en)](https://github.com/sallymeiw88-byte)
+
+<br>
+
+### ⚙️ Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallymeiw88-byte&layout=compact&theme=buefy&exclude_repo=data-analyst-portfolio&locale=en)](https://github.com/sallymeiw88-byte)
 
 
 📍 Colombia  
