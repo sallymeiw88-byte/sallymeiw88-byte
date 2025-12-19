@@ -1,3 +1,5 @@
+![Banner](Sally Mei (1).png)
+
 <h2 align="center">👋 Hi, I’m Sally Mei</h2>
 
 <p align="center">
