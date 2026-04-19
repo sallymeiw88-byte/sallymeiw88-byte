@@ -42,8 +42,4 @@ To contribute to teams that value accuracy, consistency, and data-driven insight
 
 ---
 
-### 📊 My GitHub Activity
-*(Your automated stats will appear here)*
-
-> *Open to Junior Data Analyst opportunities.*
 
