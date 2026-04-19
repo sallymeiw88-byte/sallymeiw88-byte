@@ -3,43 +3,68 @@
 
 # Hi, I'm Sally Mei! 👋
 
-### 🚀 Junior Data Analyst
-I am a Junior Data Analyst passionate about transforming raw, complex data into clean, reliable, and business-ready datasets. My professional focus is on **data quality, validation, and cleaning**, ensuring that every report and dashboard accurately reflects business reality to support informed decision-making.
+### 🚀 Junior Data Analyst (Data Quality & Reporting Focus)
+
+I specialize in the technical side of data analysis, working with data cleaning, validation, and transformation to ensure datasets are accurate, consistent, and reliable.
+
+I work with data to identify inconsistencies, improve data accuracy, and ensure datasets are reliable for analysis and reporting.
 
 ---
 
 ### 🎯 Career Goal
-To contribute to teams that value accuracy, consistency, and data-driven insights, while continuing to grow as a **Data Analyst** or **Data Quality Analyst**.
+
+To work in a data-focused role where I can contribute through data cleaning, validation, and reporting, ensuring high-quality data that supports accurate business insights.
 
 ---
 
 ### 🛠 Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Analysis & Visualization** | **Power BI**, Google Sheets, Excel |
-| **Databases** | SQL |
-| **Programming** | Python (Pandas) |
-| **Specialization** | Data Quality, Validation, Cleaning & Transformation |
+* **Data Analysis & Visualization:** Power BI, Excel, Google Sheets
+* **Databases:** SQL (Joins, Aggregations, Data Cleaning)
+* **Programming:** Python (Pandas for data cleaning & transformation)
+* **Specialization:** Data Quality, Data Validation, Data Cleaning, Data Transformation
 
 ---
 
 ### 📂 Featured Projects
 
-* 📊 **[Walmart Sales Analysis (Google Sheets)]**: Analysis of sales performance and efficiency by store.
-* 📈 **[Marketing Campaign Performance (SQL)]**: Optimization and performance analysis of marketing campaigns.
-* 🌫️ **[Air Pollution Analysis (Python)]**: Environmental data analysis using Python libraries.
+📊 **[Walmart Sales Analysis](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)**
 
-*(Note: Replace the bracketed text with the links to your public repositories)*
+* Cleaned and validated sales data to improve consistency and accuracy
+* Analyzed store performance and identified key revenue drivers
+* Built structured reports to support data-driven decisions
+
+📈 **[SQL Marketing Campaign Performance](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/sql-marketing-campaign-performance)**
+
+* Analyzed marketing performance using SQL queries
+* Combined multiple datasets using joins and aggregations
+* Identified trends in conversions and campaign efficiency
+
+🌫️ **[Air Pollution Analysis (Python)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis)**
+
+* Processed and cleaned environmental datasets using Pandas
+* Performed exploratory data analysis (EDA)
+* Identified patterns and trends over time
+
+🏠 **[Real Estate Commercial Analysis (Power BI)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/Real-Estate-Analysis)**
+
+* Built an interactive dashboard to track KPIs (revenue, segments, retention)
+* Applied cohort analysis to analyze customer behavior over time
+* Ensured data accuracy through validation and transformation
+
+---
+
+### ⚡ What I Bring
+
+* Strong attention to detail and data accuracy
+* Experience cleaning and validating messy datasets
+* Structured and logical approach to data problems
+* Focus on reliable, business-ready data
 
 ---
 
 ### 🤝 Let’s Connect
 
-* 🔗 **[LinkedIn](https://www.linkedin.com/in/sallymei08/)**
-* 📧 **[Email](mailto:sallymw93@hotmail.com)**
-* 📍 Based in Colombia | 🌎 Bilingual (English & Spanish)
-
----
-
-
+* 🔗 LinkedIn: https://www.linkedin.com/in/sallymei08/
+* 📧 Email: [sallymw93@hotmail.com](mailto:sallymw93@hotmail.com)
+* 📍 Colombia | 🌎 Bilingual (English & Spanish)
