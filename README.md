@@ -34,7 +34,7 @@ To work in a data-focused role where I can contribute through data cleaning, val
 * Analyzed store performance and identified key revenue drivers
 * Built structured reports to support data-driven decisions
 
-📈 **[SQL Marketing Campaign Performance](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/private-charter-analysis)**
+📈 **[Private Charter Profitability Analysis (SQL)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/private-charter-analysis)**
 
 * Analyzed private charter flight data to evaluate revenue, cost, and overall profitability.
 * Identified top-performing routes and aircraft models using SQL grouping and aggregation.
