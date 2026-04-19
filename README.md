@@ -1,67 +1,49 @@
 ![Banner](banner.png)
 
 
-<h2 align="center">👋 Hi, I’m Sally Mei</h2>
+# Hi, I'm Sally Mei! 👋
 
-<p align="center">
-Junior Data Analyst focused on <strong>data quality, validation, and cleaning</strong><br>
-SQL • Python (Pandas) • Excel • Google Sheets
-</p>
+### 🚀 Junior Data Analyst
+I am a Junior Data Analyst passionate about transforming raw, complex data into clean, reliable, and business-ready datasets. My professional focus is on **data quality, validation, and cleaning**, ensuring that every report and dashboard accurately reflects business reality to support informed decision-making.
 
 ---
 
-## 🌟 About Me
-I’m a Junior Data Analyst with hands-on experience transforming raw, multi-source data into  
-<strong>clean, reliable, and business-ready datasets</strong>.
-
-I enjoy working with structured data, identifying inconsistencies, and ensuring accuracy for reporting and analysis.
-
-🎯 **Career Goal**  
-To grow as a Data Analyst or Data Quality Analyst, contributing to teams that value accuracy, consistency, and data-driven decision-making.
+### 🎯 Career Goal
+To contribute to teams that value accuracy, consistency, and data-driven insights, while continuing to grow as a **Data Analyst** or **Data Quality Analyst**.
 
 ---
 
-### 💻 Tech Stack
+### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-</p>
----
-
-## 📂 Featured Projects
-- 📊 [Walmart Sales Analysis (Google Sheets)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)
-- 📈 [Marketing Campaign Performance (SQL)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/sql-marketing-campaign-performance)
-- 🌫️ [Air Pollution Analysis (Python)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis)
+| Category | Skills |
+| :--- | :--- |
+| **Analysis & Visualization** | **Power BI**, Google Sheets, Excel |
+| **Databases** | SQL |
+| **Programming** | Python (Pandas) |
+| **Specialization** | Data Quality, Validation, Cleaning & Transformation |
 
 ---
+
+### 📂 Featured Projects
+
+* 📊 **[Walmart Sales Analysis (Google Sheets)]**: Analysis of sales performance and efficiency by store.
+* 📈 **[Marketing Campaign Performance (SQL)]**: Optimization and performance analysis of marketing campaigns.
+* 🌫️ **[Air Pollution Analysis (Python)]**: Environmental data analysis using Python libraries.
+
+*(Note: Replace the bracketed text with the links to your public repositories)*
+
 ---
 
-## 🤝 Let’s Connect
+### 🤝 Let’s Connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/sallymei08/
-📧 Email: sallymw93@hotmail.com
+* 🔗 **[LinkedIn](https://www.linkedin.com/in/sallymei08/)**
+* 📧 **[Email](mailto:sallymw93@hotmail.com)**
+* 📍 Based in Colombia | 🌎 Bilingual (English & Spanish)
+
 ---
-<br>
 
----
-<br>
+### 📊 My GitHub Activity
+*(Your automated stats will appear here)*
 
-## 📊 My GitHub Activity
-
-[![sallymeiw88-byte GitHub Stats](https://github-readme-stats.vercel.app/api?username=sallymeiw88-byte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&locale=en)](https://github.com/sallymeiw88-byte)
-
-<br>
-
-### ⚙️ Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallymeiw88-byte&layout=compact&theme=buefy&locale=en)](https://github.com/sallymeiw88-byte)
-
-
-📍 Colombia  
-🌎 English & Spanish  
-💼 Open to Junior Data Analyst opportunities
+> *Open to Junior Data Analyst opportunities.*
 
