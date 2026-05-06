@@ -5,9 +5,9 @@
 
 ### 🚀 Junior Data Analyst (Data Quality & Reporting Focus)
 
-I specialize in the technical side of data analysis, working with data cleaning, validation, and transformation to ensure datasets are accurate, consistent, and reliable.
+I specialize in data cleaning, validation, and transformation to ensure datasets are accurate, consistent, and reliable for analysis and reporting.
 
-I work with data to identify inconsistencies, improve data accuracy, and ensure datasets are reliable for analysis and reporting.
+I work with data to identify inconsistencies, improve data accuracy, and ensure datasets are reliable for business decision-making.
 
 ---
 
