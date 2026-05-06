@@ -17,13 +17,13 @@ To work in a data-focused role where I can contribute through data cleaning, val
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack  
 
-* **Data Analysis & Visualization:** Power BI, Excel, Google Sheets
-* **Databases:** SQL (Joins, Aggregations, Data Cleaning)
-* **Programming:** Python (Pandas for data cleaning & transformation)
-* **Specialization:** Data Quality, Data Validation, Data Cleaning, Data Transformation
-
+* **Data Analysis & Visualization: Power BI, Excel, Google Sheets  
+* **Databases: SQL (Joins, Aggregations, Data Validation, Data Quality Checks)  
+* **Data Preparation: Power Query (Data Cleaning, Transformation, Validation)  
+* **Programming: Python (Pandas for data cleaning & transformation)  
+* **Specialization: Data Quality, Data Validation, Data Cleaning, Data Transformation  
 ---
 
 ### 📂 Featured Projects
