@@ -40,7 +40,8 @@ To work in a data-focused role where I can contribute through data cleaning, val
 * Built an interactive dashboard to track KPIs (revenue, segments, retention)
 * Applied cohort analysis to analyze customer behavior over time
 * Ensured data accuracy through validation and transformation
-* 
+
+ 
 📊 **[Walmart Sales Analysis](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)**
 
 * Cleaned and validated sales data to improve consistency and accuracy
