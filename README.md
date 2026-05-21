@@ -35,18 +35,17 @@ To work in a data-focused role where I can contribute through data cleaning, val
 * Identified top-performing routes and aircraft models using SQL grouping and aggregation.
 *Filtered completed bookings to ensure accurate and reliable financial analysis.
 
-📊 **[Walmart Sales Analysis](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)**
-
-* Cleaned and validated sales data to improve consistency and accuracy
-* Analyzed store performance and identified key revenue drivers
-* Built structured reports to support data-driven decisions
-
- 
  🏠 **[Real Estate Commercial Analysis (Power BI)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/Real-Estate-Analysis)**
 
 * Built an interactive dashboard to track KPIs (revenue, segments, retention)
 * Applied cohort analysis to analyze customer behavior over time
 * Ensured data accuracy through validation and transformation
+* 
+📊 **[Walmart Sales Analysis](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)**
+
+* Cleaned and validated sales data to improve consistency and accuracy
+* Analyzed store performance and identified key revenue drivers
+* Built structured reports to support data-driven decisions
 
 
 🌫️ **[Air Pollution Analysis (Python)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis)**
