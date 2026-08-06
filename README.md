@@ -33,7 +33,7 @@ To work in a data-focused role where I can contribute through data cleaning, val
 
 * Analyzed private charter flight data to evaluate revenue, cost, and overall profitability.
 * Identified top-performing routes and aircraft models using SQL grouping and aggregation.
-*Filtered completed bookings to ensure accurate and reliable financial analysis.
+* Filtered completed bookings to ensure accurate and reliable financial analysis.
 
  🏠 **[Real Estate Commercial Analysis (Power BI)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/Real-Estate-Analysis)**
 
