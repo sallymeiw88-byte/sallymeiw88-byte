@@ -1,9 +1,6 @@
-![Banner](Banner.png)
-
-
 # Hi, I'm Sally Mei! 👋
 
-### 🚀 Data Analyst | SQL • Power BI • Python
+## 🚀 Data Analyst | SQL • Power BI • Python
 
 I transform raw data into meaningful business insights through data cleaning, SQL analysis, dashboard development, and reporting.
 
@@ -11,7 +8,7 @@ I enjoy working with operational and analytical datasets to identify trends, imp
 
 ---
 
-### 🛠 Tech Stack  
+## 🛠 Tech Stack
 
 **Programming & Databases**
 - SQL
@@ -31,59 +28,78 @@ I enjoy working with operational and analytical datasets to identify trends, imp
 **Other**
 - Git
 - GitHub
+
 ---
 
-### 📂 Featured Projects
+# 📂 Featured Projects
 
+## ✈️ Private Charter Flight Profitability Analysis (SQL)
 
-📈 **[Private Charter Profitability Analysis (SQL)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/private-charter-analysis)**
+Designed and analyzed a relational database of private charter flight operations using SQL.
 
-* Evaluated revenue, cost, and profitability across routes, aircraft models, customer segments, and manufacturers.
-* Applied INNER JOIN, GROUP BY, ORDER BY, SUM(), and COUNT() to generate business insights.
-* Identified top-performing aircraft, routes, and customer segments to support operational decision-making.
+- Evaluated revenue, cost, and profitability across routes, aircraft models, customer segments, and manufacturers.
+- Applied INNER JOIN, GROUP BY, ORDER BY, SUM(), and COUNT() to generate business insights.
+- Identified top-performing aircraft, routes, and customer segments to support operational decision-making.
+
 **Skills:** SQL, Relational Databases, INNER JOIN, GROUP BY, Aggregations, Business Analysis
-  ---
 
- 🏠 **[Real Estate Commercial Analysis (Power BI)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/Real-Estate-Analysis)**
+---
 
-* Developed KPIs to monitor revenue and business performance.
-* Created DAX measures for business reporting.
-* Designed an interactive dashboard using Power BI and Power Query.
+## 🏠 Real Estate Commercial Analysis (Power BI)
+
+Built an interactive Power BI dashboard to analyze commercial real estate performance.
+
+- Developed KPIs to monitor revenue and business performance.
+- Created DAX measures for business reporting.
+- Designed an interactive dashboard using Power BI and Power Query.
+
 **Skills:** Power BI, DAX, Dashboard Development, Data Modeling, Power Query
-  ---
 
- 
-📊 **[Walmart Sales Analysis](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets)**
+---
 
-* Cleaned and validated sales data to improve consistency and accuracy
-* Analyzed store performance and identified key revenue drivers
-* Built structured reports to support data-driven decisions
-**Skills:** Excel, Google Sheets, KPI Reporting, Data Analysis
-   --- 
+## 🌫️ Air Pollution Analysis (Python)
 
-🌫️ **[Air Pollution Analysis (Python)](https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis)**
+Analyzed environmental datasets using Python and Pandas.
 
-* Processed and cleaned environmental datasets using Pandas
-* Performed exploratory data analysis 
-* Identified patterns and trends over time
+- Cleaned and transformed raw datasets.
+- Performed exploratory data analysis.
+- Identified pollution trends and location-based patterns.
+
 **Skills:** Python, Pandas, Data Cleaning, Exploratory Data Analysis
 
 ---
 
-### ⚡ Core Strengths
+## 🛒 Walmart Sales Analysis
 
-* Data Cleaning & Validation
-* SQL Analysis
-* Dashboard Development
-* Business Reporting
-* Data Quality
-* Analytical Thinking
-* Attention to Detail
-* Problem Solving
+Analyzed retail sales performance using spreadsheets and business reporting techniques.
+
+- Cleaned and validated sales data.
+- Analyzed product and store performance.
+- Built reports to support business decision-making.
+
+**Skills:** Excel, Google Sheets, KPI Reporting, Data Analysis
+
 ---
 
-### 🤝 Let’s Connect
+# ⚡ Core Strengths
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/sallymei08/
-* 📧 Email: [sallymw93@hotmail.com](mailto:sallymw93@hotmail.com)
-* 📍 Colombia | 🌎 Bilingual (English & Spanish)
+- Data Cleaning & Validation
+- SQL Analysis
+- Dashboard Development
+- Business Reporting
+- Data Quality
+- Analytical Thinking
+- Attention to Detail
+- Problem Solving
+
+---
+
+# 📫 Let's Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/sallymei08/
+
+📧 Email: sallymw93@hotmail.com
+
+📍 Colombia
+
+🌎 English (Fluent) | Spanish (Native)
