@@ -11,19 +11,26 @@ I enjoy working with operational and analytical datasets to identify trends, imp
 
 ---
 
-### 🎯 Career Goal
-
-To work in a data-focused role where I can contribute through data cleaning, validation, and reporting, ensuring high-quality data that supports accurate business insights.
-
----
-
 ### 🛠 Tech Stack  
 
-* Data Analysis & Visualization: Power BI, Excel, Google Sheets  
-* Databases: SQL (Joins, Aggregations, Data Validation, Data Quality Checks)  
-* Data Preparation: Power Query (Data Cleaning, Transformation, Validation)  
-* Programming: Python (Pandas for data cleaning & transformation)  
-* Specialization: Data Quality, Data Validation, Data Cleaning, Data Transformation  
+**Programming & Databases**
+- SQL
+- Python (Pandas)
+
+**Data Visualization**
+- Power BI
+- Excel
+- Google Sheets
+
+**Data Preparation**
+- Power Query
+- Data Cleaning
+- Data Validation
+- Data Transformation
+
+**Other**
+- Git
+- GitHub
 ---
 
 ### 📂 Featured Projects
