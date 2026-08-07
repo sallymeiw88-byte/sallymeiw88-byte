@@ -26,7 +26,6 @@ I enjoy working with operational and analytical datasets to identify trends, imp
 - Data Transformation
 
 **Other**
-- Git
 - GitHub
 
 ---
